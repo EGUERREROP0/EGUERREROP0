@@ -9,7 +9,8 @@
 ### 🚀 About Me
 I'm a passionate developer dedicated to building projects that blend **innovation**, **efficiency**, and **creativity**. I thrive in the intersection of robust Backend logic and intuitive Frontend experiences, with a deep interest in exploring the latest **AI technologies**.
 
-- 🔭 **Currently working on:** AI integration projects and scalable web apps.
+- 🔭 **Currently working on:** I'm developing the "Employee Portal" and integrating **AI Assistants** (LLMs + SQL Agents) to automate corporate data analysis.
+- 🎓 **Education:** Software Design & Development Professional (2022 - 2025).
 - 📚 **Learning:** Advanced Neural Networks & Cloud Architecture.
 - 💬 **Ask me about:** React, Django, and why Python is my go-to language.
 - ⚡ **Fun fact:** I believe clean code is a form of art.
