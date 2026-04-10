@@ -50,7 +50,7 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Erminio Guerrero" height="30" width="40" />
   </a>
 
-  <a href="[https://YOUR_PORTFOLIO_URL.com](https://erminiog-portfolio.netlify.app/)" target="blank">
+  <a href="https://erminiog-portfolio.netlify.app/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Erminio Guerrero Portfolio" height="30" width="40" />
   </a>
 </p>
