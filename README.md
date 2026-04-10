@@ -50,15 +50,15 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 <p align="center">
   <a href="https://linkedin.com/in/erminio-guerrero" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-erminio%20guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://erminiog-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-website-ff7f50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
   <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
