@@ -50,15 +50,15 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 <p align="left">
   <a href="https://linkedin.com/in/erminio-guerrero" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Erminio Guerrero LinkedIn" height="32" width="42" />
+    <img src="https://img.shields.io/badge/LinkedIn-Erminio%20Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://erminiog-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="Erminio Guerrero Portfolio" height="32" width="32" />
+    <img src="https://img.shields.io/badge/Portfolio-Visitar-ff7f50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Erminio Guerrero Twitter" height="32" width="42" />
+    <img src="https://img.shields.io/badge/Twitter-Seguir-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
