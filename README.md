@@ -27,16 +27,16 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Languages in my Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EGUERREROP0&show_icons=true&theme=react&hide_border=true&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117" alt="Erminio's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGUERREROP0&layout=compact&theme=react&hide_border=true&title_color=36BCF7&bg_color=0D1117" alt="Top Languages" width="40%" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,php,kotlin,flutter,html,css,react,nodejs,express,django,spring,dotnet&perline=7" alt="My Languages" />
 </p>
 
-### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EGUERREROP0&theme=react&hide_border=true&background=0D1117&ring=36BCF7&sideNums=36BCF7" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EGUERREROP0&theme=tokyonight" alt="Most Used Languages" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGUERREROP0&theme=tokyonight" alt="Overall Stats" width="400" />
 </p>
+
 
 ### 🔥 Activity Streak
 <p align="center">
