@@ -48,17 +48,17 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 ### 📫 Let's Connect!
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/erminio-guerrero" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+    <img src="https://img.shields.io/badge/linkedin-erminio%20guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="https://erminiog-portfolio.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+    <img src="https://img.shields.io/badge/portfolio-website-ff7f50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  
+
   <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+    <img src="https://img.shields.io/badge/twitter-follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
