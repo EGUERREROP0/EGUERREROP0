@@ -43,17 +43,18 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 ### 📫 Let's Connect!
 
+
 <p align="left">
   <a href="https://linkedin.com/in/erminio-guerrero" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Erminio Guerrero LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER_USER" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Erminio Guerrero Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Erminio Guerrero LinkedIn" height="32" width="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erminiog-portfolio.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Erminio Guerrero Portfolio" height="30" width="40" />
+    <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="Erminio Guerrero Portfolio" height="32" width="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Erminio Guerrero Twitter" height="32" width="42" />
   </a>
 </p>
 
