@@ -29,9 +29,13 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EGUERREROP0&show_icons=true&theme=tokyonight&hide_border=true" alt="Erminio's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGUERREROP0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EGUERREROP0&show_icons=true&theme=react&hide_border=true&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117" alt="Erminio's Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGUERREROP0&layout=compact&theme=react&hide_border=true&title_color=36BCF7&bg_color=0D1117" alt="Top Languages" width="40%" />
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EGUERREROP0&theme=react&hide_border=true&background=0D1117&ring=36BCF7&sideNums=36BCF7" alt="GitHub Streak" />
 </p>
 
 ### 🔥 Activity Streak
