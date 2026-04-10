@@ -43,14 +43,19 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER" target="blank">
+  <a href="www.linkedin.com/in/erminio-guerrero" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Erminio Guerrero" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USER" target="blank">
+  <a href="https://twitter.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Erminio Guerrero" height="30" width="40" />
   </a>
+
+  <a href="[https://YOUR_PORTFOLIO_URL.com](https://erminiog-portfolio.netlify.app/)" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Erminio Guerrero Portfolio" height="30" width="40" />
+  </a>
+</p>
 </p>
 
-<p align="center">
+<p align="center w-100">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
