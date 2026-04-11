@@ -17,7 +17,7 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -28,7 +28,7 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 
 ---
 
-### 💻 Languages in my Repositories
+### Languages in my Repositories
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,java,php,kotlin,flutter,html,css,react,nodejs,express,django,spring,dotnet&perline=7" alt="My Languages" />
 </p>
@@ -39,14 +39,14 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
 </p>
 
 
-### 🔥 Activity Streak
+### Activity Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EGUERREROP0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/erminio-guerrero" target="_blank">
@@ -57,7 +57,7 @@ I'm a passionate developer dedicated to building projects that blend **innovatio
     <img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
+  <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
