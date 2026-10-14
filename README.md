@@ -1,67 +1,59 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="30px"> Hi, I'm Erminio Guerrero!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Problem+Solver;Python+%26+JavaScript+Lover" alt="Typing SVG" />
-</p>
+<!-- HEADER --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=220&section=header&text=Erminio%20Guerrero&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=60" width="100%" alt="header" /> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+robust+backends+%E2%9A%99%EF%B8%8F;Crafting+intuitive+frontends+%F0%9F%8E%A8;Integrating+AI+%26+LLMs+%F0%9F%A4%96;Clean+code+is+an+art+%E2%9C%A8" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/erminio-guerrero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://erminiog-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a> <img src="https://komarev.com/ghpvc/?username=EGUERREROP0&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" /> </p>
+👋 About Me
 
----
+I'm a developer who builds projects that blend innovation, efficiency and creativity. I work at the intersection of solid backend logic and intuitive frontend experiences, and I'm deeply curious about the latest AI technologies.
 
-### 🚀 About Me
-I'm a passionate developer dedicated to building projects that blend **innovation**, **efficiency**, and **creativity**. I thrive in the intersection of robust Backend logic and intuitive Frontend experiences, with a deep interest in exploring the latest **AI technologies**.
+<table> <tr> <td width="50%" valign="top">
+🔭 Currently
 
-- 🔭 **Currently working on:** I'm developing the "Employee Portal" and integrating **AI Assistants** (LLMs + SQL Agents) to automate corporate data analysis.
-- 🎓 **Education:** Software Design & Development Professional (2022 - 2025).
-- 📚 **Learning:** Advanced Neural Networks & Cloud Architecture.
-- 💬 **Ask me about:** React, Django, and why Python is my go-to language.
-- ⚡ **Fun fact:** I believe clean code is a form of art.
+Building an Employee Portal and integrating AI Assistants (LLMs + SQL Agents) to automate corporate data analysis.
 
----
+📚 Learning
 
-### Tech Stack
+Advanced Neural Networks & Cloud Architecture.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white) |
+</td> <td width="50%" valign="top">
+🎓 Education
 
----
+Software Design & Development Professional (2022 – 2025)
 
-### Languages in my Repositories
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,php,kotlin,flutter,html,css,react,nodejs,express,django,spring,dotnet&perline=7" alt="My Languages" />
-</p>
+💬 Ask me about
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EGUERREROP0&theme=tokyonight" alt="Most Used Languages" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGUERREROP0&theme=tokyonight" alt="Overall Stats" width="400" />
-</p>
+React, Django, and why Python is my go-to language.
 
+</td> </tr> </table>
 
-### Activity Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EGUERREROP0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+⚡ Fun fact: I believe clean code is a form of art.
 
----
+🛠️ Tech Stack
 
-### Let's Connect!
+Languages
 
-<p align="center">
-  <a href="https://linkedin.com/in/erminio-guerrero" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=py,js,java,php,kotlin&theme=dark" alt="Languages" />
 
-  <a href="https://erminiog-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+Frontend
 
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css&theme=dark" alt="Frontend" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,spring&theme=dark" alt="Backend" />
+
+Tools & Methodologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Tools" /> Mostrar imagen
+
+🤖 AI Focus
+
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=EGUERREROP0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGUERREROP0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=EGUERREROP0&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EGUERREROP0&theme=tokyonight" width="49%" alt="Profile details" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EGUERREROP0&theme=tokyonight" width="49%" alt="Repos per language" /> </p>
+🚀 Featured Projects
+<!-- Cambia los nombres de repositorio por los tuyos --> <table> <tr> <td width="50%"> <a href="https://github.com/EGUERREROP0/TU-REPO-1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EGUERREROP0&repo=TU-REPO-1&theme=tokyonight&hide_border=true" alt="Project 1" /> </a> </td> <td width="50%"> <a href="https://github.com/EGUERREROP0/TU-REPO-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EGUERREROP0&repo=TU-REPO-2&theme=tokyonight&hide_border=true" alt="Project 2" /> </a> </td> </tr> </table>
+🤝 Let's Connect
+
+I'm open to collaborations and interesting projects. Feel free to reach out!
+
+<p align="center"> <a href="https://linkedin.com/in/erminio-guerrero"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://erminiog-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Visit%20my%20Portfolio-FF7F50?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a> </p> <!-- FOOTER --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
